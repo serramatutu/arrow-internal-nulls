@@ -1,0 +1,3 @@
+pyarrow
+pyarrow-stubs
+pandas
